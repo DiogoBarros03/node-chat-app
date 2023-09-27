@@ -12,39 +12,39 @@ A simple real-time chat application built with Node.js and socket.io.
 
 1. **Clone the repository**:
 
-\```
+```
 git clone https://github.com/your-username/node-chat-app.git
-\```
+```
 
 2. **Navigate to the directory**:
 
-\```
+```
 cd node-chat-app
-\```
+```
 
 3. **Install the dependencies**:
 
 Using npm:
-\```
+```
 npm install
-\```
+```
 
 Using yarn (if installed):
-\```
+```
 yarn
-\```
+```
 
 4. **Start the server**:
 
 Using npm:
-\```
+```
 npm start
-\```
+```
 
 Using yarn:
-\```
+```
 yarn start
-\```
+```
 
 5. **Access the application**:
 
